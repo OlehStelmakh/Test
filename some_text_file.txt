@@ -1,0 +1,2 @@
+Створення нового текстового файла: touch nameOfFile.txt
+Скріншот: command + shift + 4
