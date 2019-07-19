@@ -1,1 +1,1 @@
-New file with new text
+New file with new text. Added some changes for new commit.
